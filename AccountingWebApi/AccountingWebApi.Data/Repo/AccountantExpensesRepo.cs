@@ -54,7 +54,7 @@ namespace AccountingWebApi.Data.Repo
                     if(!expense.Paid && updatedExpense.Paid)
                     {
                         expense.Paid = updatedExpense.Paid;
-                        //MailSend(expense.UserId, expense.Id); // Main gönderme işleminden önce Mail Ayarları Ayarlanmalı 
+                        MailSend(expense.UserId, expense.Id); // Main gönderme işleminden önce Mail Ayarları Ayarlanmalı 
                     }                                         // Sıkıntı Olursa MailSend Metodunu Kapatarak işlemi gerçekleştire bilirsiniz 
 
                 }
