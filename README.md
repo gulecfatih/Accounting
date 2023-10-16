@@ -8,7 +8,8 @@
 
 
   - Yapılanlar -
- Login Ekranı Gerçekleştirildi.
- Salesperson kullanıcısı için masraf ekleme ekranı ve eklenmiş masrafların listelenmesi sağlandı. (jwt token oluşturulması sağlandı cache ile bilgileri alamadığım için react.js cache mekanizmasıda kullanıldı.)
- Manager kullanıcısı için masrafları onaylayabilecek bir ekran oluşturuldu ekranda onaylanan masraflar ve onaylanacak Masraflar olarak 2 kısım bulunuyor
- Accountant kullanıcısı için masrafların ödendiği tikini atabileceği bir ekran oluşturuldu ödenecek ve ödenen masrafların 2 sini de gösterilmesi sağlandı
+ - Login Ekranı Gerçekleştirildi.
+ - Salesperson kullanıcısı için masraf ekleme ekranı ve eklenmiş masrafların listelenmesi sağlandı. (jwt token oluşturulması sağlandı cache ile bilgileri alamadığım için react.js cache mekanizmasıda kullanıldı.)
+ - Manager kullanıcısı için masrafları onaylayabilecek bir ekran oluşturuldu ekranda onaylanan masraflar ve onaylanacak Masraflar olarak 2 kısım bulunuyor
+ - Accountant kullanıcısı için masrafların ödendiği tikini atabileceği bir ekran oluşturuldu ödenecek ve ödenen masrafların 2 sini de gösterilmesi sağlandı
+ - Ödendi Tiki Atılan Masraflara Email Gönderilmesi Sağlandı
