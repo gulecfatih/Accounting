@@ -1,0 +1,14 @@
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Data\bin\Debug\net6.0\AccountingWebApi.Data.deps.json
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Data\bin\Debug\net6.0\AccountingWebApi.Data.runtimeconfig.json
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Data\bin\Debug\net6.0\AccountingWebApi.Data.dll
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Data\bin\Debug\net6.0\AccountingWebApi.Data.pdb
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Data\obj\Debug\net6.0\AccountingWebApi.Data.csproj.AssemblyReference.cache
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Data\obj\Debug\net6.0\AccountingWebApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Data\obj\Debug\net6.0\AccountingWebApi.Data.AssemblyInfoInputs.cache
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Data\obj\Debug\net6.0\AccountingWebApi.Data.AssemblyInfo.cs
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Data\obj\Debug\net6.0\AccountingWebApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Data\obj\Debug\net6.0\AccountingWebApi.Data.dll
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Data\obj\Debug\net6.0\refint\AccountingWebApi.Data.dll
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Data\obj\Debug\net6.0\AccountingWebApi.Data.pdb
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Data\obj\Debug\net6.0\AccountingWebApi.Data.genruntimeconfig.cache
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Data\obj\Debug\net6.0\ref\AccountingWebApi.Data.dll

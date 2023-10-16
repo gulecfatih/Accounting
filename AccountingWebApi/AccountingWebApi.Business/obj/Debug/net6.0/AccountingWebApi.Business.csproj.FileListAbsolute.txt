@@ -1,0 +1,17 @@
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Business\bin\Debug\net6.0\AccountingWebApi.Business.deps.json
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Business\bin\Debug\net6.0\AccountingWebApi.Business.runtimeconfig.json
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Business\bin\Debug\net6.0\AccountingWebApi.Business.dll
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Business\bin\Debug\net6.0\AccountingWebApi.Business.pdb
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Business\bin\Debug\net6.0\AccountingWebApi.Data.dll
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Business\bin\Debug\net6.0\AccountingWebApi.Data.pdb
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Business\obj\Debug\net6.0\AccountingWebApi.Business.csproj.AssemblyReference.cache
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Business\obj\Debug\net6.0\AccountingWebApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Business\obj\Debug\net6.0\AccountingWebApi.Business.AssemblyInfoInputs.cache
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Business\obj\Debug\net6.0\AccountingWebApi.Business.AssemblyInfo.cs
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Business\obj\Debug\net6.0\AccountingWebApi.Business.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Business\obj\Debug\net6.0\AccountingWebApi.Business.csproj.CopyComplete
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Business\obj\Debug\net6.0\AccountingWebApi.Business.dll
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Business\obj\Debug\net6.0\refint\AccountingWebApi.Business.dll
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Business\obj\Debug\net6.0\AccountingWebApi.Business.pdb
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Business\obj\Debug\net6.0\AccountingWebApi.Business.genruntimeconfig.cache
+C:\Users\ilkay\source\repos\AccountingWebApi\AccountingWebApi.Business\obj\Debug\net6.0\ref\AccountingWebApi.Business.dll
