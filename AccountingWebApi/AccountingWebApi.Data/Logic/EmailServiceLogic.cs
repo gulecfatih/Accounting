@@ -23,7 +23,7 @@ namespace AccountingWebApi.Data.Logic
             message.Body = bodyBuilder.ToMessageBody();
 
             _smtpClient.Connect("smtp.gmail.com", 587, SecureSocketOptions.StartTls);
-            _smtpClient.Authenticate("deneme@gmail.com", "Deneme*"); // denendi ve böyle bırakıldı
+            _smtpClient.Authenticate("deneme@gmail.com", "Deneme*");
             _smtpClient.Send(message);
             _smtpClient.Disconnect(true);
         }
